@@ -38,6 +38,7 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 •Sürüm Kontrolü: Git ve GitHub
 
 🎯 Hedeflerim
+
 •Nesne Yönelimli Programlama (OOP): OOP mantığını temel hatlarıyla kavramak ve projelerime yansıtmak.
 
 •Algoritmik Düşünce: Karmaşık algoritma tasarımları için güçlü bir temel oluşturmak.
