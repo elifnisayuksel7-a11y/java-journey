@@ -29,6 +29,7 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 
 🎯 Hedeflerim
+
 •Nesne Yönelimli Programlama (OOP) mantığını kavramak.
 
 •Algoritma kurma becerilerimi geliştirmek.
