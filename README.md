@@ -1,5 +1,5 @@
 Java Yolculuğu (Java Journey) 🚀
-Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak Java öğrenme sürecimde geliştirdiğim temel projeleri, algoritma çalışmalarımı ve kod örneklerimi topluyorum.
+Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak Java öğrenme sürecimde geliştirdiğim temel projeleri, algoritma çalışmalarını ve kod örneklerini paylaşıyorum.
 
 📁 Projelerim
 
@@ -7,7 +7,7 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 •Kullanıcı Odaklı Veri İşleme: Kullanıcıdan boy uzunluğu ve kilo bilgilerini alarak VKİ değerini hesaplar.
 
-•Scanner Sınıfı Uygulaması: Scanner sınıfı kullanılarak dayanıklı ve dinamik veri girişi yönetimi pratiği yapılmıştır.
+•Scanner Sınıfı Uygulaması: Kullanıcıdan veri almak için Scanner sınıfı kullanılarak dinamik veri girişi pratiği yapılmıştır.
 
 •Temel Operatörler: Temel aritmetik operatörler ve etkili değişken yönetimi uygulanmıştır.
 
@@ -15,7 +15,7 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 •Kontrol Yapıları: Switch-case mantığı kullanılarak dört işlem (toplama, çıkarma, çarpma, bölme) yapabilen bir hesap makinesi geliştirilmiştir.
 
-•Mantıksal Hata Yönetimi: Sıfıra bölünme hatası gibi durumları engelleyen, mantıksal kontrollerle güçlendirilmiş güvenli bir kod yapısı içerir.
+•Mantıksal Hata Yönetimi: Sıfıra bölünme gibi hataları önlemek için mantıksal kontroller içeren güvenli bir kod yapısı kullanılmıştır.
 
 •Etkileşimli Arayüz: Kullanıcı deneyimini artırmak amacıyla etkileşimli bir terminal menüsü tasarlanmıştır.
 
@@ -27,7 +27,7 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 •Gelişmiş Aritmetik: Yüzdesel hesaplamalar için double veri tipi ve bileşik atama operatörleri (*=, +=) etkin bir şekilde kullanılmıştır.
 
-•Koşullu Entegrasyon: Bağımsız ve bağımlı kontrol yapılarının farkını anlamak adına, hafta sonu ek ücretleri indirimli fiyatlar üzerine entegre edilmiştir.
+•Koşullu Entegrasyon: Bağımsız ve bağımlı kontrol yapılarının farkını anlamak adına, hafta sonu ek ücretleri indirimli fiyatlar üzerine uygulanacak şekilde tasarlanmıştır.
 
 🛠 Kullanılan Teknolojiler ve Araçlar
 
