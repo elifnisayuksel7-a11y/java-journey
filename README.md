@@ -4,7 +4,7 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 📁 Projelerim
 1. Vücut Kitle İndeksi (VKİ) Hesaplayıcı
 
-• Kullanıcıdan boy ve kilo bilgilerini alarak VKİ değerini hesaplar.
+• Kullanıcıdan boy uzunluğu ve kilo bilgilerini alarak VKİ değerini hesaplar.
 
 • Scanner sınıfı kullanılarak dinamik girdi alma pratiği yapılmıştır.
 
