@@ -2,7 +2,9 @@ Java Yolculuğu (Java Journey) 🚀
 Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak Java öğrenme sürecimde geliştirdiğim temel projeleri, algoritma çalışmalarımı ve kod örneklerimi topluyorum.
 
 📁 Projelerim
+
 1. Vücut Kitle İndeksi (VKİ) Hesaplayıcı
+
 •Kullanıcı Odaklı Veri İşleme: Kullanıcıdan boy uzunluğu ve kilo bilgilerini alarak VKİ değerini hesaplar.
 
 •Scanner Sınıfı Uygulaması: Scanner sınıfı kullanılarak dayanıklı ve dinamik veri girişi yönetimi pratiği yapılmıştır.
