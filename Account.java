@@ -1,4 +1,9 @@
+import java.util.Scanner;
+import java.util.Random;
+
 package Account;
+
+
 import java.util.Scanner;
 import java.util.Random;
 
@@ -45,3 +50,4 @@ public class Account {
 	}
 
 }
+
