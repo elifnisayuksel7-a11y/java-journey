@@ -45,6 +45,14 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 •Deneme Sayacı: Program akışında bir sayaç (deneme++) tutularak, kullanıcının başarı verimliliği ölçülmüştür.
 
+6. Market Sepeti Sistemi
+
+•Paralel Dizi Yönetimi: Ürün isimleri ve fiyatları farklı veri tiplerindeki dizilerde (String[] ve double[]) tutularak aralarında indeks bazlı ilişki kurulmuştur.
+
+•Sonsuz Döngü ve Çıkış Protokolü: while(true) yapısı kullanılarak dinamik bir alışveriş süreci oluşturulmuş, -1 girdisi ile döngüden güvenli çıkış (break) sağlanmıştır.
+
+•Finansal Hesaplama Katmanı: Kullanıcı seçimlerine göre kümülatif toplam hesaplanmış ve sonuç ekranında vergi (KDV) hesaplaması ile detaylı fatura dökümü sunulmuştur.
+
 🛠 Kullanılan Teknolojiler ve Araçlar
 
 •Dil: Java
