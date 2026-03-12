@@ -29,6 +29,14 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 •Koşullu Entegrasyon: Bağımsız ve bağımlı kontrol yapılarının farkını anlamak adına, hafta sonu ek ücretleri indirimli fiyatlar üzerine uygulanacak şekilde tasarlanmıştır.
 
+4. Banka Kayıt Sistemi
+
+•Veri Güvenliği ve Doğrulama: Başlangıç bakiyesinin negatif olamayacağına dair mantıksal kontroller (if-else) eklenerek veri bütünlüğü sağlanmıştır.
+
+•Algoritmik Veri Üretimi: Random sınıfı kullanılarak döngü (for) içerisinde 16 haneli benzersiz bir hesap numarası oluşturma algoritması geliştirilmiştir.
+
+•Kullanıcı Bilgilendirme: İşlem sonunda kayıt detaylarını içeren (Kullanıcı adı, hesap no, bakiye) kullanıcı dostu bir özet ekranı tasarlanmıştır.
+
 🛠 Kullanılan Teknolojiler ve Araçlar
 
 •Dil: Java
