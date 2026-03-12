@@ -37,6 +37,14 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 •Kullanıcı Bilgilendirme: İşlem sonunda kayıt detaylarını içeren (Kullanıcı adı, hesap no, bakiye) kullanıcı dostu bir özet ekranı tasarlanmıştır.
 
+5. Sayı Tahmin Oyunu
+
+•Dinamik Döngü Yönetimi: while kontrol yapısı kullanılarak, kullanıcı doğru sonuca ulaşana kadar kesintisiz devam eden bir oyun algoritması oluşturulmuştur.
+
+•Algoritmik Yönlendirme: Kullanıcı girişleri anlık olarak hedef sayı ile kıyaslanmış, "Yukarı/Aşağı" geri bildirimleriyle mantıksal bir yönlendirme sistemi kurulmuştur.
+
+•Deneme Sayacı: Program akışında bir sayaç (deneme++) tutularak, kullanıcının başarı verimliliği ölçülmüştür.
+
 🛠 Kullanılan Teknolojiler ve Araçlar
 
 •Dil: Java
