@@ -1,59 +1,59 @@
 Java Yolculuğu (Java Journey) 🚀
-Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak Java öğrenme sürecimde geliştirdiğim temel projeleri, algoritma çalışmalarını ve kod örneklerini paylaşıyorum.
+
+Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak Java öğrenme sürecimde geliştirdiğim temel projeleri, algoritma çalışmalarını ve kod örneklerini paylaşıyorum.
 
 📁 Projelerim
-
 1. Vücut Kitle İndeksi (VKİ) Hesaplayıcı
 
-•Kullanıcı Odaklı Veri İşleme: Kullanıcıdan boy uzunluğu ve kilo bilgilerini alarak VKİ değerini hesaplar.
+•Kullanıcı Odaklı Veri İşleme: Kullanıcıdan boy ve kilo bilgilerini alarak VKİ değerini hesaplar.
 
-•Scanner Sınıfı Uygulaması: Kullanıcıdan veri almak için Scanner sınıfı kullanılarak dinamik veri girişi pratiği yapılmıştır.
+•Scanner Sınıfı Uygulaması: Dinamik veri girişi ile Scanner kullanım pratiği.
 
-•Temel Operatörler: Temel aritmetik operatörler ve etkili değişken yönetimi uygulanmıştır.
+•Temel Operatörler: Aritmetik operatörler ve değişken yönetimi.
 
 2. Basit Hesap Makinesi
 
-•Kontrol Yapıları: Switch-case mantığı kullanılarak dört işlem (toplama, çıkarma, çarpma, bölme) yapabilen bir hesap makinesi geliştirilmiştir.
+•Kontrol Yapıları: Switch-case ile toplama, çıkarma, çarpma, bölme işlemleri.
 
-•Mantıksal Hata Yönetimi: Sıfıra bölünme gibi hataları önlemek için mantıksal kontroller içeren güvenli bir kod yapısı kullanılmıştır.
+•Mantıksal Hata Yönetimi: Sıfıra bölünme gibi hataları önleyen güvenli kod yapısı.
 
-•Etkileşimli Arayüz: Kullanıcı deneyimini artırmak amacıyla etkileşimli bir terminal menüsü tasarlanmıştır.
+•Etkileşimli Arayüz: Terminal menüsü ile kullanıcı dostu deneyim.
 
 3. Akıllı Bilet Fiyatı Hesaplayıcı
 
-•Dinamik Fiyatlandırma Mantığı: Kullanıcı yaşı, öğrencilik durumu ve gün bilgisine (haftaiçi/haftasonu) dayalı karmaşık mantıksal kontroller uygulanmıştır.
+•Dinamik Fiyatlandırma Mantığı: Yaş, öğrenci durumu ve gün bilgisine göre fiyat hesaplama.
 
-•İndirim Hiyerarşisi: If-else if blokları kullanılarak en uygun indirimin (çocuk, yaşlı veya öğrenci) seçildiği bir öncelik sistemi geliştirilmiştir.
+•İndirim Hiyerarşisi: If-else if blokları ile en uygun indirimi seçme.
 
-•Gelişmiş Aritmetik: Yüzdesel hesaplamalar için double veri tipi ve bileşik atama operatörleri (*=, +=) etkin bir şekilde kullanılmıştır.
+•Gelişmiş Aritmetik: Yüzdesel hesaplamalar için double tipi ve bileşik atama operatörleri.
 
-•Koşullu Entegrasyon: Bağımsız ve bağımlı kontrol yapılarının farkını anlamak adına, hafta sonu ek ücretleri indirimli fiyatlar üzerine uygulanacak şekilde tasarlanmıştır.
+•Koşullu Entegrasyon: Hafta sonu ek ücretlerini indirimli fiyatlara uygulama.
 
 4. Banka Kayıt Sistemi
 
-•Veri Güvenliği ve Doğrulama: Başlangıç bakiyesinin negatif olamayacağına dair mantıksal kontroller (if-else) eklenerek veri bütünlüğü sağlanmıştır.
+•Veri Güvenliği ve Doğrulama: Negatif bakiye kontrolü ile veri bütünlüğü sağlanır.
 
-•Algoritmik Veri Üretimi: Random sınıfı kullanılarak döngü (for) içerisinde 16 haneli benzersiz bir hesap numarası oluşturma algoritması geliştirilmiştir.
+•Algoritmik Veri Üretimi: Random ile 16 haneli benzersiz hesap numarası oluşturma.
 
-•Kullanıcı Bilgilendirme: İşlem sonunda kayıt detaylarını içeren (Kullanıcı adı, hesap no, bakiye) kullanıcı dostu bir özet ekranı tasarlanmıştır.
+•Kullanıcı Bilgilendirme: Kayıt detaylarını içeren özet ekran.
 
 5. Sayı Tahmin Oyunu
 
-•Dinamik Döngü Yönetimi: while kontrol yapısı kullanılarak, kullanıcı doğru sonuca ulaşana kadar kesintisiz devam eden bir oyun algoritması oluşturulmuştur.
+•Dinamik Döngü Yönetimi: While döngüsü ile kullanıcı doğru sonuca ulaşana kadar oyun devam eder.
 
-•Algoritmik Yönlendirme: Kullanıcı girişleri anlık olarak hedef sayı ile kıyaslanmış, "Yukarı/Aşağı" geri bildirimleriyle mantıksal bir yönlendirme sistemi kurulmuştur.
+•Algoritmik Yönlendirme: "Yukarı/Aşağı" geri bildirimleri ile yönlendirme.
 
-•Deneme Sayacı: Program akışında bir sayaç (deneme++) tutularak, kullanıcının başarı verimliliği ölçülmüştür.
+•Deneme Sayacı: Kullanıcının başarı verimliliğini ölçer.
 
 6. Market Sepeti Sistemi
 
-•Paralel Dizi Yönetimi: Ürün isimleri ve fiyatları farklı veri tiplerindeki dizilerde (String[] ve double[]) tutularak aralarında indeks bazlı ilişki kurulmuştur.
+•Paralel Dizi Yönetimi: Ürün isimleri ve fiyatları farklı dizilerde tutularak indeks bazlı ilişki kurulur.
 
-•Sonsuz Döngü ve Çıkış Protokolü: while(true) yapısı kullanılarak dinamik bir alışveriş süreci oluşturulmuş, -1 girdisi ile döngüden güvenli çıkış (break) sağlanmıştır.
+•Sonsuz Döngü ve Çıkış Protokolü: while(true) ve -1 ile güvenli çıkış.
 
-•Finansal Hesaplama Katmanı: Kullanıcı seçimlerine göre kümülatif toplam hesaplanmış ve sonuç ekranında vergi (KDV) hesaplaması ile detaylı fatura dökümü sunulmuştur.
+•Finansal Hesaplama Katmanı: Kümülatif toplam ve KDV hesaplamalı fatura dökümü.
 
-🛠 Kullanılan Teknolojiler ve Araçlar
+🛠 Kullanılan Teknolojiler
 
 •Dil: Java
 
@@ -63,8 +63,8 @@ Bu depoda, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olar
 
 🎯 Hedeflerim
 
-•Nesne Yönelimli Programlama (OOP): OOP mantığını temel hatlarıyla kavramak ve projelerime yansıtmak.
+•Nesne Yönelimli Programlama (OOP) mantığını kavrayıp projelere uygulamak.
 
-•Algoritmik Düşünce: Karmaşık algoritma tasarımları için güçlü bir temel oluşturmak.
+•Karmaşık algoritmalar için algoritmik düşünceyi geliştirmek.
 
-•İleri Seviye Tasarım: Java ile daha kapsamlı ve işlevsel yazılım mimarileri üretmek.
+•Java ile daha kapsamlı ve işlevsel yazılım mimarileri üretmek.
