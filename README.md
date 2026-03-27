@@ -1,111 +1,133 @@
-Java Yolculuğu (Java Journey) 🚀
+🚀 Java Yolculuğu (Java Journey)
 
-Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak Java öğrenme sürecimde geliştirdiğim temel projeleri, algoritma çalışmalarını ve kod örneklerini paylaşıyorum.
+Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak, Java öğrenme sürecimde geliştirdiğim projeleri, algoritmik çözümleri ve yazılım mimarisi pratiklerimi bu repoda paylaşıyorum.
 
-📁 Projelerim
+Bu süreçte yalnızca temel programlama becerileri kazanmakla kalmayıp; aynı zamanda algoritmik düşünme, problem çözme ve mühendislik bakış açısı geliştirme üzerine yoğunlaştım. Her proje, belirli bir konsepti derinlemesine anlamak ve gerçek dünya problemlerine yaklaşabilmek amacıyla tasarlanmıştır.
+
+📁 Projelerim ve Teknik Kazanımlarım
+
 1. Vücut Kitle İndeksi (VKİ) Hesaplayıcı
 
-•Kullanıcı Odaklı Veri İşleme: Kullanıcıdan boy ve kilo bilgilerini alarak VKİ değerini hesaplar.
+•Bu proje ile kullanıcıdan alınan verilerin işlenmesi ve anlamlı çıktıya dönüştürülmesi üzerine çalıştım.
 
-•Scanner Sınıfı Uygulaması: Dinamik veri girişi ile Scanner kullanım pratiği.
+•Dinamik veri girişi (Scanner)
 
-•Temel Operatörler: Aritmetik operatörler ve değişken yönetimi.
+•Aritmetik işlemler ve veri tipleri
+
+•Kullanıcı etkileşimi ve input doğrulama mantığı
 
 2. Basit Hesap Makinesi
 
-•Kontrol Yapıları: Switch-case ile toplama, çıkarma, çarpma, bölme işlemleri.
+•Temel kontrol yapılarını öğrenmek ve hata yönetimini anlamak için geliştirildi.
 
-•Mantıksal Hata Yönetimi: Sıfıra bölünme gibi hataları önleyen güvenli kod yapısı.
+•Switch-case ile çoklu işlem yönetimi
 
-•Etkileşimli Arayüz: Terminal menüsü ile kullanıcı dostu deneyim.
+•Runtime hatalarına karşı koruma (özellikle bölme işlemleri)
+
+•Menü tabanlı kullanıcı deneyimi
 
 3. Akıllı Bilet Fiyatı Hesaplayıcı
 
-•Dinamik Fiyatlandırma Mantığı: Yaş, öğrenci durumu ve gün bilgisine göre fiyat hesaplama.
+•Gerçek hayata yakın bir fiyatlandırma sistemi simülasyonu geliştirdim.
 
-•İndirim Hiyerarşisi: If-else if blokları ile en uygun indirimi seçme.
+•Çoklu koşul yönetimi (if-else yapıları)
 
-•Gelişmiş Aritmetik: Yüzdesel hesaplamalar için double tipi ve bileşik atama operatörleri.
+•İndirim algoritmaları ve öncelik sıralaması
 
-•Koşullu Entegrasyon: Hafta sonu ek ücretlerini indirimli fiyatlara uygulama.
+•Yüzdesel hesaplamalar ve veri hassasiyeti
 
 4. Banka Kayıt Sistemi
 
-•Veri Güvenliği ve Doğrulama: Negatif bakiye kontrolü ile veri bütünlüğü sağlanır.
+•Basit bir veri yönetimi ve doğrulama sistemi kurdum.
 
-•Algoritmik Veri Üretimi: Random ile 16 haneli benzersiz hesap numarası oluşturma.
+•Random ile benzersiz veri üretimi
 
-•Kullanıcı Bilgilendirme: Kayıt detaylarını içeren özet ekran.
+•Veri güvenliği (negatif bakiye kontrolü)
+
+•Kullanıcıya anlamlı çıktı sunma
 
 5. Sayı Tahmin Oyunu
 
-•Dinamik Döngü Yönetimi: While döngüsü ile kullanıcı doğru sonuca ulaşana kadar oyun devam eder.
+•Algoritmik düşünme ve kullanıcı etkileşimi üzerine odaklandım.
 
-•Algoritmik Yönlendirme: "Yukarı/Aşağı" geri bildirimleri ile yönlendirme.
+•While döngüsü ile dinamik süreç yönetimi
 
-•Deneme Sayacı: Kullanıcının başarı verimliliğini ölçer.
+•Kullanıcıyı yönlendiren geri bildirim mekanizması
+
+•Performans ölçümü (deneme sayısı)
 
 6. Market Sepeti Sistemi
 
-•Paralel Dizi Yönetimi: Ürün isimleri ve fiyatları farklı dizilerde tutularak indeks bazlı ilişki kurulur.
+•Dizi yapıları ile veri ilişkisi kurmayı öğrendim.
 
-•Sonsuz Döngü ve Çıkış Protokolü: while(true) ve -1 ile güvenli çıkış.
+•Paralel array kullanımı
 
-•Finansal Hesaplama Katmanı: Kümülatif toplam ve KDV hesaplamalı fatura dökümü.
+•Sonsuz döngü ve kontrollü çıkış
 
-7. Palindrom Denetleyici 
+•Finansal hesaplama (toplam + KDV sistemi)
 
-•Metin Temizleme ve Regex: replaceAll ve Regular Expressions kullanarak boşluk, nokta ve özel karakterleri filtreleme.
+7. Palindrom Denetleyici
 
-•Bellek Yönetimi: StringBuilder sınıfı ve reverse() metodu ile optimize edilmiş string ters çevirme işlemi.
+•String işlemleri ve veri temizleme üzerine yoğunlaştım.
 
-•Esnek Karşılaştırma: equalsIgnoreCase ile büyük/küçük harf duyarlılığını ortadan kaldıran kullanıcı dostu kontrol.
+•Regex ile veri filtreleme
 
-•Veri Doğrulama: isEmpty() kontrolü ile boş girişlerin ve hatalı veri tiplerinin yönetimi. 
+•StringBuilder ile performans optimizasyonu
 
-8.  Vektörel Elektrik Alan Hesaplayıcı (Physics Engine)
- 
-• Mühendislik Modelleme: Fizik 2 dersindeki $E = k \cdot q / r^2$ formülünü koda dökerek fiziksel problemleri yazılımla çözme pratiği.
+•Case-insensitive karşılaştırma
 
-•Vektörel Analiz: Elektrik alanın sadece şiddetini değil, $E_x$ ve $E_y$ bileşenlerini (i ve j birim vektörleri) hesaplayan trigonometrik algoritma.
+•Edge-case (boş veri) kontrolü
 
-•Sınır Durum Yönetimi: Mesafenin sıfır olması ($r=0$) durumunda oluşacak tanımsızlık hatasının (division by zero) mantıksal kontrolü.
+8. Vektörel Elektrik Alan Hesaplayıcı (Physics Engine)
 
-•Bilimsel Veri Tipleri: Çok küçük ($10^{-9}$) ve çok büyük ($10^9$) değerlerle çalışabilmek için double veri tipi ve bilimsel gösterim (Scientific Notation) kullanımı.
+•Yazılım ile mühendislik disiplinlerini birleştirdiğim en önemli projelerden biri.
 
-9. Gelişmiş Öğrenci Başarı Takip Sistemi (Grade Management System)
+•Fizik formüllerinin kod ile modellenmesi
 
-•İki Boyutlu Dizi (2D Array) Mimarisi: Satırların öğrencileri, sütunların ise farklı sınav notlarını temsil ettiği matris yapısı ile kompleks veri depolama uygulaması.
+•Trigonometrik hesaplamalar ile vektörel analiz
 
-•Dinamik Veri Girişi ve Buffer Yönetimi: Scanner sınıfı ile nextInt() ve nextLine() arasındaki geçişlerde oluşan "newline" (yeni satır) karakteri sorununu yöneten kararlı giriş protokolü.
+•Matematiksel hata kontrolü (r = 0 durumu)
 
-•Formize Edilmiş Çıktı (Formatted Output): printf kullanılarak verilerin tablo düzeninde, sütun genişlikleri ayarlanmış ve virgülden sonra iki basamak (%.2f) hassasiyelle sunulması.
+•Scientific notation ile yüksek hassasiyetli hesaplama
 
-•Koşullu Mantık Operatörleri: Tek satırda karar verme (Ternary Operator) mantığı ile ortalama üzerinden dinamik "GEÇTİ/KALDI" durum analizi
+9. Gelişmiş Öğrenci Başarı Takip Sistemi
 
-10. Metin Analizör Sistemi (Text Analysis Tool)
+•Daha kompleks veri yapılarıyla çalıştım.
 
-•Algoritmik Karakter Filtreleme: Kullanıcıdan alınan dinamik metinler üzerinde char veri tipi ve charAt() metodu ile atomik düzeyde veri inceleme.
+•2D array ile çok boyutlu veri yönetimi
 
-•Case-Insensitivity (Büyük/Küçük Harf Duyarsızlığı): toLowerCase() entegrasyonu ile kullanıcı girişlerindeki karakter formatından bağımsız, kararlı (robust) çalışma yapısı.
+•Scanner buffer problemlerinin çözümü
 
-•Döngüsel Tarama Algoritması: for döngüsü kullanılarak metin uzunluğu (length()) boyunca her bir karakterin sesli harf kümesiyle mantıksal operatörler (||) aracılığıyla karşılaştırılması.
+•printf ile formatlı çıktı üretimi
 
-•Modüler Mimari: İş mantığının main metodund
+•Ternary operator ile optimize karar mekanizması
 
+10. Metin Analizör Sistemi
+
+•Metin işleme ve algoritmik tarama üzerine geliştirilmiştir.
+
+•Karakter bazlı analiz (charAt)
+
+•Büyük/küçük harf duyarsız algoritma
+
+•Döngüsel veri işleme
+
+•Modüler ve genişletilebilir yapı
 
 🛠 Kullanılan Teknolojiler
 
-•Dil: Java
+•Java
 
-•IDE: Eclipse
+•Eclipse IDE
 
-•Sürüm Kontrolü: Git ve GitHub
+•Git & GitHub (versiyon kontrol)
 
 🎯 Hedeflerim
 
-•Nesne Yönelimli Programlama (OOP) mantığını kavrayıp projelere uygulamak.
+•Nesne Yönelimli Programlama (OOP) mantığını ileri seviyede uygulamak
 
-•Karmaşık algoritmalar için algoritmik düşünceyi geliştirmek.
+•Daha kompleks veri yapıları ve algoritmalar geliştirmek
 
-•Java ile daha kapsamlı ve işlevsel yazılım mimarileri üretmek.
+•Gerçek dünya problemlerine yönelik ölçeklenebilir yazılım projeleri üretmek
+
+•Backend ve sistem tasarımı alanında kendimi geliştirmek
