@@ -1,115 +1,71 @@
-🚀 Java Yolculuğu (Java Journey)
-Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak, Java ekosistemindeki gelişim sürecimi, algoritmik yaklaşımlarımı ve yazılım mimarisi pratiklerimi bu depoda (repository) dökümante ediyorum.
-
-Bu süreçte yalnızca sözdizimi (syntax) öğrenmekle kalmayıp; algoritmik düşünme, problem çözme ve mühendislik disiplini geliştirme üzerine odaklandım. Her proje, akademik bilgiyi pratik uygulama ile birleştirme amacıyla tasarlanmıştır.
-
 📁 Projelerim ve Teknik Kazanımlarım
-1. Vücut Kitle İndeksi (VKİ) Hesaplayıcı
-
-•Kullanıcıdan alınan biyometrik verilerin işlenmesi ve anlamlı çıktıya dönüştürülmesi üzerine odaklanılmıştır.
-
-•Scanner sınıfı ile dinamik veri girişi yönetimi.
-
-•Aritmetik operatörler ve veri tipi (Double/Float) hassasiyeti.
-
-•Temel input doğrulama mantığı.
-
-2. Basit Hesap Makinesi
-
-•Kontrol yapılarının etkin kullanımı ve çalışma zamanı (runtime) hata yönetimi üzerine çalışılmıştır.
-
-•Switch-case yapısı ile çoklu işlem akış yönetimi.
-
-•Matematiksel kısıtların (0'a bölme hatası vb.) yazılımsal kontrolü.
-
-•Menü tabanlı kullanıcı deneyimi tasarımı.
-
-3. Akıllı Bilet Fiyatı Hesaplayıcı
-
-•Gerçek dünya senaryolarına dayalı karmaşık karar mekanizmaları simüle edilmiştir.
-
-•İç içe geçmiş (nested) if-else yapıları ile çoklu koşul yönetimi.
-
-•Yaş ve yolculuk tipi bazlı indirim algoritmaları ve öncelik sıralaması.
-
-4. Banka Kayıt Sistemi
-
-•Veri bütünlüğü ve basit güvenlik protokolleri üzerine kurgulanmıştır.
-
-•Random sınıfı ile benzersiz (unique) hesap numarası üretimi.
-
-•Negatif bakiye kontrolü ve işlem validasyonu.
-
-5. Sayı Tahmin Oyunu
-
-•İnteraktif süreç yönetimi ve döngüsel mantık üzerine geliştirilmiştir.
-
-•While döngüsü ile dinamik oyun akışı tasarımı.
-
-•Kullanıcıyı yönlendiren feedback (yukarı/aşağı) mekanizması ve performans ölçümü.
-
-6. Market Sepeti Sistemi
-
-•Dizi yapıları ve paralel veri yönetimi üzerine ilk çalışmalarımı içerir.
-
-•Paralel array (dizi) kullanımı ile ürün-fiyat eşleştirmesi.
-
-•Finansal hesaplamalarda KDV ve toplam tutar algoritmaları.
-
-7. Palindrom Denetleyici
-
-•Metin işleme (String Manipulation) ve bellek optimizasyonu üzerine yoğunlaşılmıştır.
-
-•StringBuilder sınıfı ile performans odaklı metin tersleme.
-
-•Regex kullanımı ile veri temizleme ve case-insensitive karşılaştırma.
-
-8. Vektörel Elektrik Alan Hesaplayıcı (Physics Engine)
-   
-•Yazılım ile fizik disiplinini birleştiren ileri seviye bir mühendislik projesidir.
-
-•Fizik formüllerinin kod ile modellenmesi ve trigonometrik analizler.
-
-•Scientific notation kullanımı ve sıfıra bölünme (r=0) gibi fiziksel imkansızlıkların hata yönetimi.
-
-9. Gelişmiş Öğrenci Başarı Takip Sistemi
-    
-•Çok boyutlu veri yapıları ve formatlı çıktı yönetimi üzerine odaklanılmıştır.
-
-•2D Array (Matris) yapısı ile öğrenci ve not verilerinin koordinasyonu.
-
-•printf metodu ile tablo formatında profesyonel raporlama.
-
-10. Metin Analizör Sistemi
-    
-•Algoritmik tarama ve karakter bazlı veri işleme teknikleri kullanılmıştır.
-
-•charAt ve döngüsel tarama ile frekans analizi.
-
-•Modüler ve genişletilebilir fonksiyonel yapı.
-
-11. Modüler Araç Kiralama (Rent-A-Car) Sistemi
-    
-•Yazılımda durum yönetimi (State Management) ve kodun modülerliği üzerine geliştirilmiştir.
-
-•Statik Metotlar: Program mantığı; menü gösterimi, listeleme ve kiralama süreçleri için bağımsız metotlara bölünmüştür (Clean Code).
-
-•Flag Yönetimi: Araçların müsaitlik durumları boolean dizileri ve bayrak (flag) mantığı ile dinamik olarak güncellenmektedir.
-
-•Veri Senkronizasyonu: Paralel diziler üzerinden indeks tabanlı veri eşleştirme ve sınır (bounds) kontrolleri uygulanmıştır.
-
+🔹 Vücut Kitle İndeksi (VKİ) Hesaplayıcı
+•Kullanıcıdan alınan biyometrik verilerin işlenmesi ve anlamlı sonuçlara dönüştürülmesi üzerine odaklanılmıştır
+•Scanner sınıfı kullanılarak dinamik veri girişi sağlanmıştır
+•Aritmetik işlemler ve veri tipi hassasiyeti (double/float) dikkate alınmıştır
+•Temel giriş doğrulama ve kullanıcı etkileşimi mantığı uygulanmıştır
+🔹 Basit Hesap Makinesi
+•Kontrol yapılarının etkin kullanımı ile işlem yönetimi sağlanmıştır
+•switch-case yapısı ile çoklu matematiksel işlemler gerçekleştirilmiştir
+•0’a bölme gibi hatalar yazılımsal olarak kontrol edilmiştir
+•Menü tabanlı kullanıcı deneyimi oluşturulmuştur
+🔹 Akıllı Bilet Fiyatı Hesaplayıcı
+•Gerçek hayat senaryolarına uygun karar mekanizmaları geliştirilmiştir
+•İç içe if-else yapıları ile çoklu koşullar yönetilmiştir
+•Yaş ve yolculuk tipine göre dinamik indirim hesaplama sistemi kurulmuştur
+•Kullanıcıdan alınan verilere göre sonuç üreten yapı tasarlanmıştır
+🔹 Banka Kayıt Sistemi
+•Veri bütünlüğü ve temel güvenlik kontrolleri üzerine odaklanılmıştır
+•Random sınıfı kullanılarak benzersiz hesap numarası üretilmiştir
+•Negatif bakiye durumları kontrol edilerek hata yönetimi sağlanmıştır
+•Kullanıcı işlemlerinin doğrulanmasına yönelik basit bir sistem kurulmuştur
+🔹 Sayı Tahmin Oyunu
+•Döngüsel programlama mantığı ile interaktif bir oyun geliştirilmiştir
+•while döngüsü kullanılarak dinamik oyun akışı sağlanmıştır
+•Kullanıcıya yönlendirme yapan geri bildirim mekanizması kurulmuştur
+•Performans takibi ve tahmin süreci yönetimi uygulanmıştır
+🔹 Piyasa Sepeti Sistemi
+•Dizi (array) yapıları ile veri yönetimi sağlanmıştır
+•Paralel diziler kullanılarak ürün ve fiyat eşleştirmesi yapılmıştır
+•Toplam tutar ve KDV hesaplama işlemleri gerçekleştirilmiştir
+•Basit finansal işlem mantığı simüle edilmiştir
+🔹 Palindrom Kontrol Sistemi
+•String manipülasyonu ve metin işleme teknikleri uygulanmıştır
+•StringBuilder ile performanslı metin tersleme gerçekleştirilmiştir
+•Regex kullanılarak veri temizleme yapılmıştır
+•Büyük/küçük harf duyarsız karşılaştırma sağlanmıştır
+🔹 Vektörel Elektrik Alan Hesaplayıcı
+•Yazılım ile fizik disiplinleri entegre edilmiştir
+•Trigonometrik hesaplamalar ve vektörel işlemler uygulanmıştır
+•Bilimsel gösterim kullanımı ile hesaplamalar desteklenmiştir
+•Fiziksel hatalar (örneğin r=0 durumu) kontrol altına alınmıştır
+🔹 Gelişmiş Öğrenci Başarı Takip Sistemi
+•Çok boyutlu veri yapıları (2D array) kullanılmıştır
+•Öğrenci verileri organize edilerek yönetilmiştir
+•printf ile düzenli ve profesyonel çıktı formatı oluşturulmuştur
+•Veri analizine uygun temel yapı kurulmuştur
+🔹 Metin Analizör Sistemi
+•Karakter tabanlı veri işleme teknikleri uygulanmıştır
+•charAt ve döngüler ile metin tarama işlemleri yapılmıştır
+•Frekans analizi ile veri yorumlama gerçekleştirilmiştir
+•Modüler ve genişletilebilir fonksiyon yapısı kurulmuştur
+🔹 Modüler Araç Kiralama Sistemi
+•Durum yönetimi (state management) ve modüler yapı uygulanmıştır
+•Statik metotlar ile kod parçaları ayrıştırılmıştır
+•Boolean diziler ile araç durumları takip edilmiştir
+•Paralel diziler ile veri senkronizasyonu sağlanmıştır
+🔹 Siber Güvenlik Kullanıcı Yönetim Sistemi
+•Nesne yönelimli programlama (OOP) prensipleri ile kullanıcı modeli oluşturulmuştur
+•Encapsulation (kapsülleme) ile veri güvenliği sağlanmıştır
+•Constructor overloading ile farklı kullanıcı oluşturma senaryoları geliştirilmiştir
+•Varsayılan değer atamaları ile güvenli başlangıç durumu oluşturulmuştur
+•Scanner sınıfı ile interaktif kullanıcı kayıt sistemi tasarlanmıştır
+•Kullanıcı bilgilerinin düzenli şekilde görüntülenmesi sağlanmıştır
 🛠 Kullanılan Teknolojiler
-
-•Dil: Java (Standard Edition)
-
-•IDE: Eclipse IDE
-
-•Versiyon Kontrol: Git & GitHub
-
+•Java (Standard Edition)
+•Eclipse IDE
+•Git & GitHub
 🎯 Hedeflerim
-
-•Nesne Yönelimli Programlama (OOP): Sınıf hiyerarşileri, kalıtım (inheritance) ve polimorfizm konularında derinleşmek.
-
-•Veri Yapıları: Bağlı listeler, yığınlar ve ağaç yapılarını Java ile modellemek.
-
-•Backend Geliştirme: Ölçeklenebilir sistemler ve veritabanı entegrasyonu üzerine uzmanlaşmak.
+•Nesne yönelimli programlama (OOP) konularında derinleşmek
+•Veri yapıları (linked list, stack, tree) üzerine çalışmak
+•Backend geliştirme ve veritabanı yönetimi alanında uzmanlaşmak
