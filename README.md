@@ -136,6 +136,17 @@
 
 •Kullanıcı bilgilerinin düzenli şekilde görüntülenmesi sağlanmıştır
 
+🔹Akıllı Kütüphane Yönetim Sistemi
+
+
+• OOP Prensipleri: Kalıtım, polimorfizm ve kapsülleme teknikleri bir arada uygulanmıştır.
+
+• Gelişmiş Hata Yönetimi: LibraryException ile mantıksal hatalar try-catch bloklarında yönetilmiştir.
+
+• Dinamik Koleksiyonlar: ArrayList yapısı ile envanter takibi ve veri yönetimi sağlanmıştır.
+
+• Modülerlik: Metot aşırı yükleme (overloading) ve ezme (overriding) ile esnek kod yapısı kurulmuştur.
+
 🛠 Kullanılan Teknolojiler
 
 
