@@ -170,6 +170,18 @@
 •ArrayList koleksiyonu üzerinde nesne tabanlı kontrol döngüleri çalıştırılmıştır.
 
 
+🔹 Akıllı Tepsi İstifleyici (Tray Stack Manager)
+
+
+• ArrayList koleksiyon yapısı manipüle edilerek, LIFO (Last In, First Out) mantığına dayalı özel bir Yığın (Stack) veri yapısı simüle edilmiştir.
+
+• EmptyStackException adında özel bir kontrol edilen istisna (checked exception) fırlatılarak stant boşken işlem yapılması engellenmiştir.
+
+• Kalıtım hiyerarşisinde super anahtar kelimesi kullanılarak üst sınıf kurucusu tetiklenmiş ve metot ezme (overriding) pekiştirilmiştir.
+
+• Scanner tuzağı (boşluk karakteri atlama sorunu) efektif şekilde yönetilerek CLI menü akışı optimize edilmiştir.
+
+
 🛠 Kullanılan Teknolojiler
 
 
