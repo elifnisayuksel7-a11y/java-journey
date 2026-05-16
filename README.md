@@ -181,6 +181,17 @@
 
 • Scanner tuzağı (boşluk karakteri atlama sorunu) efektif şekilde yönetilerek CLI menü akışı optimize edilmiştir.
 
+🔹 Akıllı Akaryakıt İstasyonu Otomasyonu
+
+
+•Kritik stok ve miktar kontrolleri ata sınıf seviyesinde kurgulanarak veri tutarlılığı ve güvenliği en üst seviyede sağlanmıştır.
+
+•InsufficientFuelException adında amaca özel bir istisna yapısı oluşturulmuş; yetersiz stok durumları çalışma zamanında (runtime) kontrol altına alınmıştır.
+
+•Alt sınıflarda @Override ve super anahtar kelimelerinin efektif kullanımıyla, ata sınıfın temel işlevleri bozulmadan türe özgü ek özellikler entegre edilmiştir.
+
+•Veri yönetim katmanı (StationManager) ile kullanıcı etkileşim arayüzü (SmartStation) birbirinden tamamen soyutlanarak modüler bir yapı elde edilmiştir.
+
 
 🛠 Kullanılan Teknolojiler
 
