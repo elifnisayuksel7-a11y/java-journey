@@ -193,6 +193,18 @@
 •Veri yönetim katmanı (StationManager) ile kullanıcı etkileşim arayüzü (SmartStation) birbirinden tamamen soyutlanarak modüler bir yapı elde edilmiştir.
 
 
+🔹 Acı Sos Alarmı (Dinamik Restoran Simülasyonu)
+
+
+•İş kurallarının nesne yönelimli hiyerarşide (Ata ve Alt sınıflar) nasıl dağıtılacağı başarıyla kurgulanmıştır.
+
+•SpicyAlarmException adında amaca özel bir istisna yapısı oluşturularak, riskli çalışma zamanı durumları kontrol altına alınmıştır.
+
+•Metotların yanındaki throws anahtar kelimesi ile sorumluluğun yukarı katmanlara paslanması mimarisi (Exception Propagation) uygulanmıştır.
+
+•Ana döngü (main) içerisinde kurgulanan try-catch yapısı sayesinde, çalışma zamanında oluşan istisnaların program akışını kesmesi engellenmiştir.
+
+
 🛠 Kullanılan Teknolojiler
 
 
