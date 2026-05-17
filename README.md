@@ -204,6 +204,17 @@
 
 •Ana döngü (main) içerisinde kurgulanan try-catch yapısı sayesinde, çalışma zamanında oluşan istisnaların program akışını kesmesi engellenmiştir.
 
+🔹 Üniversite Kulüp Etkinlik Kayıt Sistemi
+
+
+• Kontenjan ve kayıt yönetim süreçleri nesne yönelimli programlama (OOP) prensipleri hiyerarşisinde kurgulanmıştır.
+
+• QuotaExceededException adında amaca özel bir kontrol edilen istisna (checked exception) yapısı tasarlanarak runtime riskleri kontrol altına alınmıştır.
+
+• Metot imzasındaki throws anahtar kelimesiyle hata yönetim sorumluluğunun üst katmanlara dinamik olarak paslanması sağlanmıştır.
+
+• main katmanında kurgulanan try-catch yapısı sayesinde, kontenjan dolum krizlerinin program akışını kesmesi (crash) engellenmiştir.
+
 
 🛠 Kullanılan Teknolojiler
 
