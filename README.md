@@ -215,6 +215,19 @@
 
 • main katmanında kurgulanan try-catch yapısı sayesinde, kontenjan dolum krizlerinin program akışını kesmesi (crash) engellenmiştir.
 
+🔹 Kargo Simülasyon Sistemi
+
+
+•Soyut sınıf (Abstract Class) ve somut alt sınıf mimarisiyle çok biçimlilik (Polymorphism) başarıyla uygulanmıştır.
+
+•AgirlikSınırıAsildiException adında özel bir kontrollü istisna (Checked Exception) tanımlanarak çalışma zamanı riskleri dinamik olarak yönetilmiştir.
+
+•Runnable arayüzünün (Interface) implementasyonu sayesinde, kargo dağıtım görevlerinin bağımsız bir iş parçacığı (Thread) yapısında yürütülmesi simüle edilmiştir.
+
+•Scanner sınıfı ile konsoldan dinamik veri girişi sağlanırken, finansal ve sayısal hassasiyet gerektiren taşımacılık maliyetleri BigDecimal ve compareTo() mekanizmalarıyla optimize edilmiştir.
+
+•İşlem başarılı veya hatalı sonuç raporlarının bellek dostu ve hızlı üretilmesi amacıyla StringBuilder performans yönetimi kullanılmıştır.
+
 
 🛠 Kullanılan Teknolojiler
 
